@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+fastapi
+uvicorn
+python-dotenv
+aiohttp
+numpy
+pydantic
+beautifulsoup4
+html2text
+tqdm
+markdown
+python-multipart
+=======
+fastapi
+uvicorn
+python-dotenv
+aiohttp
+numpy
+pydantic
+beautifulsoup4
+html2text
+tqdm
+markdown
+python-multipart
+>>>>>>> 246bc95 (db commit)
+setuptools
